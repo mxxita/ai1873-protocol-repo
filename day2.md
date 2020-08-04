@@ -1,8 +1,8 @@
 # Protocol for day1
 ## Targets of the day
-  - [~] Finishing my Website
+  - [] Finishing my Website
   - [x] Kick off Meeting
-  - [~] Getting to know Julia with Tutorials
+  - [] Getting to know Julia with Tutorials
   - [] Working on the 2 Problems with Julia
 
 ## Finishing my Website
