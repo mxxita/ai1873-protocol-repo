@@ -2,11 +2,11 @@
 ## Part 1: First Meeting 09:00 am
 We have discussed how we want to structure week 1 and defined targets. In terms of hitting these, we have a checklist available in the ai1873 repository.
 ## Targets of the day
-[x] Creating a presentation for the Kick off meeting on the following day
-[x] Reading the articles on OCR and understanding them
-[x] Getting to know GitHub workflow
-[ ] Creating a portfolio Website with GitHub Pages
-[ ] optional: Starting off with Julia
+  - [x] Creating a presentation for the Kick off meeting on the following day
+  - [x] Reading the articles on OCR and understanding them
+  - [x] Getting to know GitHub workflow
+  - [ ] Creating a portfolio Website with GitHub Pages
+  - [ ] optional: Starting off with Julia
 
 ## Creating the presentation
 Matteo and I have discussed what to include in the presentation on the slide describing our project. We managed to come up with valid points, but underestimated the knowledge required to establish good slides. Therefore, we decided to read the following articles in order to finish this part.
