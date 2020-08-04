@@ -1,9 +1,9 @@
 # Protocol for day1
 ## Targets of the day
-  - [] Finishing my Website
+  - [ ] Finishing my Website
   - [x] Kick off Meeting
-  - [] Getting to know Julia with Tutorials
-  - [] Working on the 2 Problems with Julia
+  - [ ] Getting to know Julia with Tutorials
+  - [ ] Working on the 2 Problems with Julia
 
 ## Finishing my Website
 Since I have not finished working on my website I started off with installing everything necessary for working with Git on my Laptop.
